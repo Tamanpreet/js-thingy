@@ -1,0 +1,108 @@
+* {
+	margin:0;
+	padding: 0;
+}
+
+nav {
+	background-color: gray;
+	height:80px;
+}
+
+ul{ 
+	display: inline-block;
+	list-style: none;
+	margin-left: 250px;
+}
+
+li{ 
+	display: inline-block;
+	padding:20px;
+}
+
+li a { 
+	text-decoration: none;
+	padding: 20px; 
+	color: black;
+}
+
+li a:hover{
+	background-color: white;
+	color: blue;
+}	
+
+body {
+	background-color: yellow;
+	overflow-y: scroll;
+}
+
+#firstbox{
+	position:relative;
+	top:95px;
+	left:90px;
+	height:200px;
+	width:1200px;
+	border: 2px solid black;
+	background-color:yellow;
+	color:black;
+	font size:24px;
+}
+#photoone{
+	position:relative;
+	top:150px;
+	left:100px;
+	height:665px;
+	width:1000px;
+	border:6px  solid pink;
+	background-color: green ;
+	color: ;
+}
+#boxone{
+	position:relative;
+	top:100px;
+	left:280px;
+	right:;
+	height:200px;
+	width:700px;
+	border: 6px solid green ;
+	background-color:white ;
+	color: ;
+}#jey {
+	position:relative;
+	top:60px;
+	left:80px;
+	right:;
+	height:600px;
+	width:555px;
+	border: 7px   ;
+	background-color:white 
+	color: ;
+}#footer {
+	position:relative;
+	bottom: 0px;
+	left:;
+	right:;
+	height:60px;
+	width:100%;
+	border: 2px solid blue ;
+	background-color:white ;
+	color: ;
+}# {
+	position:relative;
+	top:;
+	left:;
+	right:;
+	height:;
+	width:;
+	border:    ;
+	background-color:white ;
+	color: ;
+}# {
+	position:relative;
+	top:;
+	left:;
+	right:;
+	height:;
+	width:;
+	border:    ;
+	background-color:white ;
+	color: ;
